@@ -570,7 +570,7 @@ h1, h2, h3, h4, h5, h6 {
     top: 0;
     background-color: var(--color-white);
     width: 0;
-    height: 0.02rem;
+    height: 20%;
 }
 
 .nav .nav-item:hover .nav-link::before {
