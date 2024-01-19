@@ -539,7 +539,7 @@ ul.row {
     padding: 0.5rem;
 }
 
-.row + .row::before {
+.row + .row {
     content: none;
     display: table;
     float: none;
